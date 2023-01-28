@@ -1,11 +1,16 @@
 _repo: The-long-patrol_69773
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69773-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Treynor, Albert M.
     gutenberg_agent_id: '55414'
     url: http://www.gutenberg.org/2009/agents/55414
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69773#The-long-patrol
 gutenberg_issued: '2023-01-11'
 identifiers:
   gutenberg: '69773'
